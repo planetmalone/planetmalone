@@ -1,16 +1,16 @@
 # :wave:🤠 Howdy
 
-
+## Highlights
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=0&color=FFFFFF&multiline=true&repeat=false&width=625&height=140&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences;Able+to+switch+between+people+managaement+and+coding)](https://git.io/typing-svg)
 
-### Contributions to public repositories
+## Contributions to public repositories
 <p align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=planetmalone&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
   
 </p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=planetmalone&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-planetmalone.vercel.app/api?username=planetmalone&count_private=true&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical" /><img height="137px" src="https://github-readme-stats-planetmalone.vercel.app/api/top-langs?username=planetmalone&size_weight=0.6&count_weight=0.4&langs_count=8&theme=radical&hide_progress=true" />
 
 _Note: Unfortunately, I'm not able to include contributions to private organizations or repositories, which happens to be where most of my work is. I would be happy to share my experiences._
 
