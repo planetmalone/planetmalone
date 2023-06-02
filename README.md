@@ -7,7 +7,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=550&height=120&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&multiline=true&repeat=false&width=550&height=120&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences)](https://git.io/typing-svg)
 
 <div style="display: flex">
   <a href="https://angular.io/" style="text-direction: none !important">
@@ -32,8 +32,6 @@
 
 
 ## Howdy :wave:🤠
-
-I'm actively working on this README as I just found it existed. It's pretty cool!
 
 ## A bit about me
 I enjoy a good mix of leadership, business acumen, and hand-on coding. I have a proven track
