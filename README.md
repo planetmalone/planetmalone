@@ -2,12 +2,34 @@
 
 <p align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=planetmalone&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=planetmalone&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
   
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7970C&multiline=true&repeat=false&width=550&height=120&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&multiline=true&repeat=false&width=550&height=120&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences)](https://git.io/typing-svg)
+
+<div style="display: flex">
+  <a href="https://angular.io/" style="text-direction: none !important">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/angular/darkorange" />
+  </a>
+  <a href="https://angular.io/">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/react/darkorange" />
+  </a>
+  <a href="https://angular.io/">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/figma/darkorange" />
+  </a>
+  <a href="https://angular.io/">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/laravel/darkorange" />
+  </a>
+  <a href="https://angular.io/">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/solid/darkorange" />
+  </a>
+  <a href="https://angular.io/">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/homeassistant/darkorange" />
+  </a>
+</div>
+
 
 ## Howdy :wave:🤠
 
