@@ -31,7 +31,7 @@
 </div>
 
 
-## Howdy :wave:🤠
+<h1 style="border-bottom: none;">Howdy :wave:🤠</h1>
 
 ## A bit about me
 I enjoy a good mix of leadership, business acumen, and hand-on coding. I have a proven track
