@@ -1,7 +1,7 @@
 # :wave:🤠 Howdy
 
 ## Highlights
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=0&color=FFFFFF&multiline=true&repeat=false&width=625&height=155&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences;Proven+expert+at+Design+Systems;Easily able+to+switch+between+people+managaement+and+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=0&color=FFFFFF&multiline=true&repeat=false&width=625&height=155&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences;Proven+expert+at+Design+Systems;Easily+able+to+switch+between+people+managaement+and+coding)](https://git.io/typing-svg)
 
 ## Contributions to public repositories
 <p align="center">
