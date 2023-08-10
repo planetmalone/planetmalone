@@ -4,11 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=0&color=FFFFFF&multiline=true&repeat=false&width=625&height=140&lines=Technology+Leader;15%2B+years+of+coding+experience;7%2B+years+of+Technology+and+People+Management;Passion+for+building+user-centric+experiences;Proven+expert+at+Design+Systems)](https://git.io/typing-svg)
 
 ## Contributions to public repositories
-<p align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=planetmalone&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</p>
 
 <img height="137px" src="https://github-readme-stats-planetmalone.vercel.app/api?username=planetmalone&count_private=true&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical" /><img height="137px" src="https://github-readme-stats-planetmalone.vercel.app/api/top-langs?username=planetmalone&size_weight=0.6&count_weight=0.4&langs_count=8&theme=radical&hide_progress=true" />
 
