@@ -7,8 +7,6 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=planetmalone&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img height="137px" src="https://github-readme-stats-planetmalone.vercel.app/api?username=planetmalone&count_private=true&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical" /><img height="137px" src="https://github-readme-stats-planetmalone.vercel.app/api/top-langs?username=planetmalone&size_weight=0.6&count_weight=0.4&langs_count=8&theme=radical&hide_progress=true" />
-
 _Note: Unfortunately, I'm not able to include contributions to private organizations or repositories, which happens to be where most of my work is. I would be happy to share my experiences._
 
 ## Technical Skills
